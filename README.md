@@ -1,5 +1,5 @@
-- 👋 Olá me chamo Tiago tenho 39 anos e estou aprendendo programação, sou formado em Redes de computadores e trabalho na area de telecom ha mais de 13anos, porém nunca tinha interessado em apredner programação.
-- 👀 Estou interessado em adquirir conhecimento na area de desenvolvimento e fazer network
+- 👋 Olá me chamo Tiago tenho 39 anos e estou aprendendo programação, sou formado em Redes de computadores e trabalho na area de telecom ha mais de 13 anos, porém nunca tinha interessado em aprender programação.
+- 👀 Estou interessado em adquirir conhecimento na area de desenvolvimento e fazer network.
 - 🌱 Atualmente estou fazendo Curso online pela PROZEDUCAÇÂO Frontend com ênfase em AWS.
 - 📫 Perfis:https://www.linkedin.com/in/tiago-lima-reis-56831938/
 <!---
